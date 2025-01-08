@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(153, 246, 246);
+    margin-bottom: 30px;
+
+}
+
+.header_img{
+    margin: 20px;
+   
+}
+
+.header_menu{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+
+.header_menu1{
+    margin: 20px;
+    font-size: 25px;
+    color: rgb(75, 146, 204);
+    text-transform: capitalize;
+}
+
+.header_menu2{
+    margin: 20px;
+    font-size: 25px;
+    color: rgb(75, 146, 204);
+    text-transform: capitalize;
+}
+
+.header_menu3{
+    margin: 20px;
+    font-size: 25px;
+    color: rgb(75, 146, 204);
+    text-transform: capitalize;
+}
+
+.header_menu4{
+    margin: 20px;
+    font-size: 25px;
+    color: rgb(75, 146, 204);
+    text-transform: capitalize;
+}
+
+.body_img{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px
+}
+
+.body_text{
+    margin: 20px;
+    font-size: 23px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.line {
+    width: 1500px;
+    height: 3px;
+    background-color: #fff;
+    margin: auto;
+    background-color:  rgb(92, 230, 230);
+
+}
+
+.icon_conteiner{
+    display: flex;
+    justify-content: space-around;
+    margin:50px;
+}
+
+.fa{
+    margin: 20px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon_text{
+    margin: 20px;
+    font-size: 20px;
+    max-width: 200px;
+    text-align: center;
+}
+
+.priziv{
+    margin: 30px;
+    background-color: #e9ee78;
+    display: flex;
+}
+
+.priziv_img{
+    margin: 10px;
+}
+
+.priziv_text{
+    margin: 20px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.priziv_button{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    
+}
+
